@@ -9,3 +9,11 @@ Researchers around the world are competing to develop better and better computer
 YOLO models have state of the art prediction speed, allowing computers to make extremely fast descisions about images they are seeing.
 In this workshop, SIH Data Scientist Dr Henry Lydecker will show you how you can take a YOLO model that have been trained to solve a problem on one dataset, and then fine tune the model to solve a similar problem but with a totally new dataset.
 You'll learn the basic concepts behind computer vision and transfer learning, and will be shown how to use industry leading open source tools in Python, including Pytorch and torchvision, and how to use them on cloud computing virtual environments so that you can get access to powerful CUDA enabled GPUs to accelerate machine learning.
+
+# Setup
+
+## Locally
+
+## Google Colab 
+
+Or, if you don't have access to a CUDA capable GPU locally, try it out in a jupyter notebook on a [Google Colab GPU VM](https://colab.research.google.com/drive/1uAt8aTkBXBvwWzAW58842o26jcEVc1DX?usp=sharing).
