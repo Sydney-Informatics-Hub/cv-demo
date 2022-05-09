@@ -14,6 +14,25 @@ You'll learn the basic concepts behind computer vision and transfer learning, an
 
 ## Locally
 
+### Requirements
+
+* Conda
+* Python
+
+```bash
+conda create env -n cvdemo -python=3.9
+
+conda activate cvdemo
+
+pip install -r requirements.txt
+```
+
+```bash
+jupyter-lab
+```
+
+Follow the rest of the instructions in the Jupyter notebook.
+
 ## Google Colab 
 
 Or, if you don't have access to a CUDA capable GPU locally, try it out in a jupyter notebook on a [Google Colab GPU VM](https://colab.research.google.com/drive/1uAt8aTkBXBvwWzAW58842o26jcEVc1DX?usp=sharing).
