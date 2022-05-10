@@ -1,0 +1,7 @@
+path: data/face_masks
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+classes: ['No Mask','Mask']
