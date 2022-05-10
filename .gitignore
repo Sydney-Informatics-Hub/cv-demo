@@ -1,3 +1,7 @@
+# Project specific
+data/face_masks/**/*.jpg
+data/face_masks/**/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
