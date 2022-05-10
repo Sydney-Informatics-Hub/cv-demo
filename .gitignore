@@ -1,6 +1,14 @@
 # Project specific
+# Ignore image files
 data/face_masks/**/*.jpg
+data/face_masks/**/*.jpeg
 data/face_masks/**/*.png
+# Ignore text annotations
+data/face_masks/**/*.txt
+
+# MacOS
+.DS_Store
+**/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
