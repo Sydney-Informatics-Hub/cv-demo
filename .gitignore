@@ -6,6 +6,9 @@ data/face_masks/**/*.png
 # Ignore text annotations
 data/face_masks/**/*.txt
 
+# WandB
+wandb/*
+
 # MacOS
 .DS_Store
 **/.DS_Store
